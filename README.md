@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://pritamkr30-portfolio.netlify.app/](https://pritamkr30-portfolio.netlify.app/)
+- 💻 Neogcamp portfolio [https://neogcamp-portfolio-of-pritam.netlify.app/index.html](https://neogcamp-portfolio-of-pritam.netlify.app/index.html)
+
+- 👨‍💻 New portfolio [https://pritamkr30-portfolio.netlify.app/](https://pritamkr30-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 
