@@ -9,7 +9,7 @@
 
 - 💻 Neogcamp portfolio [https://neogcamp-portfolio-of-pritam.netlify.app/index.html](https://neogcamp-portfolio-of-pritam.netlify.app/index.html)
 
-- 👨‍💻 New portfolio [https://pritamkr30-portfolio.netlify.app/](https://pritam-kumar.netlify.app/)
+- 👨‍💻 New portfolio [https://pritam-kumar.netlify.app/](https://pritam-kumar.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 
