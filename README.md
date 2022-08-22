@@ -5,7 +5,9 @@
 👨‍💻&nbsp; I’m currently working <b>The Resources</b> - A resources sharing web app. <br/>
 ✌️&nbsp; I build web apps using ReactJS, Redux, Redux Toolkit, Firebase & Tailwind CSS.<br/>
 🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & ReactJs (Next.js) <br/>
-⚡&nbsp; Fun fact: I prefer water while coding.
+⚡&nbsp; Fun fact: I prefer water while coding. <br />
+👨‍💻&nbsp; [Writing about JavaScript](https://theresources.gitbook.io/learn-javascript/)<br />
+👨‍💻&nbsp; [Prearing Reppository for JavaScript](https://github.com/pritam-kr/Learn_JavaScript_by_theresources)
 
 ## Experience
 ### Front end Developer at Binary Inc. <br/>
