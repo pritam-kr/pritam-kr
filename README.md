@@ -1,6 +1,6 @@
 ## Hey 👋 ,  I'm Pritam Kumar!
 
-### About Me 
+### About Me [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/pritamkumar?style=social)](https://peerlist.io/pritamkumar)
 
 👨‍💻&nbsp; I’m currently working <b>The Resources</b> - A resources sharing web app. <br/>
 ✌️&nbsp; I build web apps using ReactJS, Redux, Redux Toolkit, Firebase & Tailwind CSS.<br/>
