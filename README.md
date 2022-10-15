@@ -61,6 +61,7 @@ contributed over three javaScript projects
 - [Twitter][twitter]
 - [LinkedIn][linkedin]
 - [Instagram][instagram]
+- [![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/pritamkumar?style=social)](https://peerlist.io/pritamkumar)
 
 <br />
 
