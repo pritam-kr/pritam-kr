@@ -16,7 +16,7 @@
 - And, I built complete infrastructure for https://binaryoptics.in/
 
 ## Projects
-[PlayMe - video library app](https://codeprime.netlify.app/)
+[PlayMe - video library app](https://playme-by-pritam.netlify.app/)
 - PlayMe is Video library app for programming tutorial.
 - A responsive web app built with React & mock backend.
 - Users can watch videos, like/dislike, take notes, manage playlists/watch later/history.
