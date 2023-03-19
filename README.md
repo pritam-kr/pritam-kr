@@ -10,10 +10,8 @@
 👨‍💻&nbsp; [Prearing Reppository for JavaScript](https://github.com/pritam-kr/Learn_JavaScript_by_theresources)
 
 ## Experience
-### Front end Developer at Binary Inc. <br/>
-```HTML, CSS, JavaScript```
-- Responsibility was to design the UI of the websites using HTML, CSS, and JavaScript.
-- And, I built complete infrastructure for https://binaryoptics.in/
+### Front end Developer at Ringover. <br/>
+- Front-end developer at Ringover, with primary focus on ReactJs, JavaScript, React Query. 19th September 2022 - Present
 
 ## Projects
 [PlayMe - video library app](https://playme-by-pritam.netlify.app/)
