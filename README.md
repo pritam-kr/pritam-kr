@@ -4,7 +4,7 @@
 
 👨‍💻&nbsp; I’m currently working <b>The Resources</b> - A resources sharing web app. <br/>
 ✌️&nbsp; I build web apps using ReactJS, Redux, Redux Toolkit, Firebase & Tailwind CSS.<br/>
-🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & ReactJs (Next.js) <br/>
+🎯&nbsp; 2023 Goals: Get a frontend developer job (remote) and learn more about Typescript & ReactJs (Next.js), D3Js, Backend. <br/>
 ⚡&nbsp; Fun fact: I prefer water while coding. <br />
 👨‍💻&nbsp; [Writing about JavaScript](https://theresources.gitbook.io/learn-javascript/)<br />
 
