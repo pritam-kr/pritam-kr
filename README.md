@@ -17,8 +17,6 @@ My focus is on building great user interfaces using ReactJS, JavaScript, SCSS, R
 JavaScript is my language for adding functionality and interactivity to web applications. SCSS helps me maintain clean and user-friendly designs by organizing stylesheets effectively.
 
 React Query and Recoil are amazing tools that I use to manage and cache data, resulting in faster load times and smoother user interactions.
-
-#reactsj #javascriptI'm currently working as a Front-end Developer at Ringover, a top cloud communication platform! 🌟 My focus is on building great user interfaces using ReactJS, JavaScript, SCSS, React Query, and Recoil. With ReactJS, I create dynamic and interactive interfaces, making sure users have a seamless experience. JavaScript is my language for adding functionality and interactivity to web applications. SCSS helps me maintain clean and user-friendly designs by organizing stylesheets effectively. React Query and Recoil are amazing tools that I use to manage and cache data, resulting in faster load times and smoother user interactions. 
  
 <b>Skills:</b> Recoil · ReactQuery · JavaScript · React.js
 19th September 2022 - Present
