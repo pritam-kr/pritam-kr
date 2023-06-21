@@ -7,11 +7,22 @@
 🎯&nbsp; 2022 Goals: Get a frontend developer job (remote) and learn more about Typescript & ReactJs (Next.js) <br/>
 ⚡&nbsp; Fun fact: I prefer water while coding. <br />
 👨‍💻&nbsp; [Writing about JavaScript](https://theresources.gitbook.io/learn-javascript/)<br />
-👨‍💻&nbsp; [Prearing Reppository for JavaScript](https://github.com/pritam-kr/Learn_JavaScript_by_theresources)
 
 ## Experience
+
 ### Front end Developer at Ringover. <br/>
-- Front-end developer at Ringover, with primary focus on ReactJs, JavaScript, React Query. 19th September 2022 - Present
+- I'm currently working as a Front-end Developer at Ringover, a top cloud communication platform! 🌟
+
+My focus is on building great user interfaces using ReactJS, JavaScript, SCSS, React Query, and Recoil. With ReactJS, I create dynamic and interactive interfaces, making sure users have a seamless experience.
+
+JavaScript is my language for adding functionality and interactivity to web applications. SCSS helps me maintain clean and user-friendly designs by organizing stylesheets effectively.
+
+React Query and Recoil are amazing tools that I use to manage and cache data, resulting in faster load times and smoother user interactions.
+
+#reactsj #javascriptI'm currently working as a Front-end Developer at Ringover, a top cloud communication platform! 🌟 My focus is on building great user interfaces using ReactJS, JavaScript, SCSS, React Query, and Recoil. With ReactJS, I create dynamic and interactive interfaces, making sure users have a seamless experience. JavaScript is my language for adding functionality and interactivity to web applications. SCSS helps me maintain clean and user-friendly designs by organizing stylesheets effectively. React Query and Recoil are amazing tools that I use to manage and cache data, resulting in faster load times and smoother user interactions. 
+ 
+<b>Skills:</b> Recoil · ReactQuery · JavaScript · React.js
+19th September 2022 - Present
 
 ## Projects
 [PlayMe - video library app](https://playme-by-pritam.netlify.app/)
