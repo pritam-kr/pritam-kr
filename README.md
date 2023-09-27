@@ -1,40 +1,30 @@
-## Hey 👋 ,  I'm Pritam Kumar!
+## Hey 👋 , </br> I'm Pritam Kumar
 
 ### About Me
-
-👨‍💻&nbsp; I’m currently working <b>The Resources</b> - A resources sharing web app. <br/>
-✌️&nbsp; I build web apps using ReactJS, Redux, Redux Toolkit, Firebase & Tailwind CSS.<br/>
-🎯&nbsp; 2023 Goals: Get a frontend developer job (remote) and learn more about Typescript & ReactJs (Next.js), D3Js, Backend. <br/>
+👨‍💻&nbsp; I’m currently working <b>Earth</b> - AQI and weather visualization app. <br/>
+✌️&nbsp; Passionate to build web applications using JavaScript, and ReactJs<br/>
 ⚡&nbsp; Fun fact: I prefer water while coding. <br />
 👨‍💻&nbsp; [Writing about JavaScript](https://theresources.gitbook.io/learn-javascript/)<br />
 
 ## Experience
-
-### Front end Developer at Ringover. <br/>
-I'm currently working as a Front-end Developer at Ringover, a top cloud communication platform! 🌟
-My focus is on building great user interfaces using ReactJS, JavaScript, SCSS, React Query, and Recoil. With ReactJS, I create dynamic and interactive interfaces, making sure users have a seamless experience.
-
-JavaScript is my language for adding functionality and interactivity to web applications. SCSS helps me maintain clean and user-friendly designs by organizing stylesheets effectively.
-
-React Query and Recoil are amazing tools that I use to manage and cache data, resulting in faster load times and smoother user interactions.
+### Front-end Developer at Ringover. 
+Front-end developer at Ringover, with a primary focus on ReactJs, JavaScript, and React Query. As a front-end developer, I am responsible for building user interfaces and impliment various features.
+I closely work with Backend developers to Implement APIs into Frontend. One of my notable achievements at Ringover was leading the integration of ZOHO and Bullhorn CRM into our tool And working on Email template generation using Open AI API.
  
-<b>Skills:</b> Recoil · ReactQuery · JavaScript · React.js
-19th September 2022 - Present
-
 ## Projects
 [PlayMe - video library app](https://playme-by-pritam.netlify.app/)
-- PlayMe is Video library app for programming tutorial.
+- PlayMe is a Video library app for programming tutorials.
 - A responsive web app built with React & mock backend.
 - Users can watch videos, like/dislike, take notes, manage playlists/watch later/history.
 - Users can search for videos.
 - Used the JWT for authentication.
 
 [Like - social media app](https://like-by-pritam.netlify.app/)
-- Like is a social media app. To post memories with you friends.
+- Like is a social media app. To post memories with your friends.
 - A responsive web app built with React, Redux Toolkit & Tailwind CSS.
 - Users can create/edit/delete a post, also like/dislike, comment & bookmark the post.
 - Users can see posts on the feed & filter them by trending, recent & oldest.
-- Users can follow/unfollow, edit profile info,comments, and login/signup.
+- Users can follow/unfollow, edit profile info, comments, and login/signup.
 
 [Pearl - e-commerce app](https://pearl-by-pritam.netlify.app/)
 - The Pearl is a Jewelry Brand for Platinum Jewelry - Buy Platinum Diamond Jewelry Online in India with the latest jewelry designs.
@@ -43,20 +33,9 @@ React Query and Recoil are amazing tools that I use to manage and cache data, re
 - Users can add/remove products to/from wishlist & cart, update quantity, apply coupons & checkout.
 - Featured products section, single product page & authentication using JWT.
 
-[Quizzie - quiz app](https://quizzie-code-by-pritam.netlify.app/)
-- A responsive web app built with React, TypeScript & Firebase.
-- Users can play a quiz that has MCQ-based questions, see the rules & final score with correct answers.
-- Uses Firestore for database & Firebase Auth for email/password-based login/signup.
-
 [BinaryUI](https://binary-ui.netlify.app/)
 - A lightweight CSS framework for building fast and flexible interfaces using pre-defined style classes,
 built with HTML, CSS & JavaScript.
-
-## Accomplishments
-<b>Contributed on Open source - Girl Script Summer Of Code</b>
-- This was the three-month open-source program, where I
-contributed over three javaScript projects 
-- Earn Responsive Certificate of Freecodecamp
 
 ## Languages and Frameworks
 `JavaScript` `ReactJS` `Redux Toolkit` `TypeScript` 
