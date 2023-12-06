@@ -10,15 +10,6 @@
 - Closely worked with Backend developers to Implement APIs into Frontend.
 - Solved critical bugs in our tool.
 
-## 💡 Skills
-
-- **Programming Languages:** JavaScript, And Python
-- **Frontend Development:** NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS
-- **Databases:** Postgresql
-- **Version Control:** Git
-- **Other Tools:** Postman, Figma, GitHub, BitBucket
-
-
 ## 🚀 Featured Projects
 Here are some of my notable projects that showcase my skills and interests:
 
@@ -27,6 +18,14 @@ The concept is to create a library that offers various approaches for selecting 
 
 ### [Earth](https://github.com/pritam-kr/Earth)
 Earth is a dynamic web application that empowers users to access real-time Air Quality Index (AQI) and weather information for any location worldwide. Users can effortlessly explore AQI levels and current weather conditions with an intuitive map-based interface.
+
+## 💡 Skills
+
+- **Programming Languages:** JavaScript, And Python
+- **Frontend Development:** NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS
+- **Databases:** Postgresql
+- **Version Control:** Git
+- **Other Tools:** Postman, Figma, GitHub, BitBucket
 
 ## 🤝 Let's Connect
 
