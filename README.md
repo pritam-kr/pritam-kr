@@ -1,7 +1,6 @@
 # Welcome to Pritam's GitHub Profile
 
-👋 Hello there! I'm Pritam Kumar, a passionate front-end developer based in India. Welcome to my GitHub playground where I explore, create, and share my projects with the world.
-As a front-end developer, I am passionate about creating user-friendly and visually appealing websites and applications. With a deep understanding of HTML, CSS, and JavaScript, I can bring my clients' ideas to life by transforming their visions into functional and elegant designs
+👋 Hello there! I'm Pritam Kumar, a passionate front-end developer based in India. As a front-end developer, I am passionate about creating user-friendly and visually appealing websites and applications. With a deep understanding of HTML, CSS, and JavaScript, I can bring my clients' ideas to life by transforming their visions into functional and elegant designs
 
 ## Skills
 
