@@ -2,7 +2,7 @@
 
 👋 Hello there! I'm Pritam Kumar, a passionate front-end developer based in India. As a front-end developer, I am passionate about creating user-friendly and visually appealing websites and applications. With a deep understanding of HTML, CSS, and JavaScript, I can bring my clients' ideas to life by transforming their visions into functional and elegant designs
 
-## Experience
+## 💻 Experience
 #### Front-end Developer at Ringover. 
 - Responsible for building various features. (Webhook, AI email template, CSV Mapping, etc )
 - Leads import from various platforms, like CRM, CSV, Sheet link, and CRM view filters.
@@ -10,7 +10,7 @@
 - Closely worked with Backend developers to Implement APIs into Frontend.
 - Solved critical bugs in our tool.
 
-## Skills
+## 💡 Skills
 
 - **Programming Languages:** JavaScript, And Python
 - **Frontend Development:** NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS
