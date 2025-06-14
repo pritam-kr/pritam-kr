@@ -1,36 +1,49 @@
-# Welcome to Pritam's GitHub Profile
+# 👋 Welcome to Pritam Kumar's GitHub
 
-👋 Hello there! I'm Pritam Kumar, a passionate front-end developer based in India. As a front-end developer, I am passionate about creating user-friendly and visually appealing websites and applications. With a deep understanding of HTML, CSS, and JavaScript, I can bring my clients' ideas to life by transforming their visions into functional and elegant designs
+Hello! I'm **Pritam Kumar**, a passionate **Front-end Developer** from India, dedicated to building intuitive and visually engaging web applications. With a strong foundation in **HTML, CSS, and JavaScript**, I specialize in transforming complex ideas into seamless digital experiences that are both elegant and user-friendly.
 
-## 💻 Experience
-#### Front-end Developer at Ringover. 
-- Responsible for building various features. (Webhook, AI email template, CSV Mapping, etc )
-- Leads import from various platforms, like CRM, CSV, Sheet link, and CRM view filters.
-- One of my notable achievements at Ringover was the implementation of Zoho and Bullhorn CRM.
-- Closely worked with Backend developers to Implement APIs into Frontend.
-- Solved critical bugs in our tool.
+---
+
+## 💼 Experience
+
+### **Front-end Developer at Ringover**
+
+- Developed and enhanced multiple core features including **Webhooks**, **AI-powered email templates**, and **CSV mapping workflows**.  
+- Implemented a seamless lead import system from various platforms like **CRMs**, **CSV files**, and **Google Sheets**, with advanced view filters.  
+- Successfully integrated major CRM platforms like **Zoho** and **Bullhorn**, significantly improving workflow automation.  
+- Collaborated closely with back-end teams to integrate RESTful APIs into the front-end ecosystem.  
+- Tackled and resolved critical production bugs, ensuring reliability and improved user experience.
+
+---
 
 ## 🚀 Featured Projects
-Here are some of my notable projects that showcase my skills and interests:
 
-### [Dom Selectors](https://www.npmjs.com/package/@pritamkrv/dom-selectors)
-The concept is to create a library that offers various approaches for selecting Document Object Model (DOM) elements. I aim to understand the process of building an npm package
+### [🌍 Earth](https://github.com/pritam-kr/Earth)
+A web application that visualizes **real-time Air Quality Index (AQI)** and **weather data** globally using an interactive map-based UI. It helps users stay informed about environmental conditions anywhere in the world.
 
-### [Earth](https://github.com/pritam-kr/Earth)
-Earth is a dynamic web application that empowers users to access real-time Air Quality Index (AQI) and weather information for any location worldwide. Users can effortlessly explore AQI levels and current weather conditions with an intuitive map-based interface.
+---
 
-## 💡 Skills
+## 🛠️ Tech Stack & Skills
 
-- **Programming Languages:** JavaScript, And Python
-- **Frontend Development:** NextJs, ReactJs, Redux, ReactQuery, TypeScript, TailwindCSS, SCSS
-- **Databases:** Postgresql
-- **Version Control:** Git
-- **Other Tools:** Postman, Figma, GitHub, BitBucket
+- **Languages:** JavaScript, Python  
+- **Frameworks & Libraries:** React.js, Next.js, Redux, React Query, TypeScript, Tailwind CSS, SCSS  
+- **Database:** MongoDb 
+- **Tools & Platforms:** Git, GitHub, Bitbucket, Figma, Postman
+
+---
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/pritam-kumar-0ab3431bb/)
-- [Twitter](https://twitter.com/Pritamkr_)
-- [Personal Website](https://pritam-kumar.netlify.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pritam-kumar-0ab3431bb/)  
+- 🐦 [Twitter](https://twitter.com/Pritamkr_)  
+- 🌐 [Portfolio Website](https://pritam-kumar.netlify.app/)
 
-Feel free to reach out if you have any questions, or suggestions, or just want to chat. I'm always open to new opportunities and collaborations!
+I’m always open to collaboration, freelance opportunities, or simply chatting about new ideas in tech. Feel free to reach out!
+
+---
+
+<!-- Optional: GitHub stats badges -->
+<!-- 
+![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritam-kr&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam-kr&layout=compact&theme=dracula)
+-->
